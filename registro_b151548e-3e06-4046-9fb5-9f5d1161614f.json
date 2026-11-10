@@ -1,0 +1,17 @@
+{
+    "nombre": "LUIS ALEJANDRO",
+    "apellido": "TAMAYO ESCOBAR",
+    "email": "aletaes@gmail.com",
+    "token": "b151548e-3e06-4046-9fb5-9f5d1161614f",
+    "fecha_utc": "2026-11-10T01:52:14.998144+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.54.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "f12517eaab8d",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "bcac2b181eca18f337a73ef15023f1ebe4bc8af76e72126434116578c6c37edd"
+}

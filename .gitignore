@@ -1,0 +1,64 @@
+template
+build
+.secrets
+# ==================================
+# Python
+# ==================================
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# ==================================
+# Entornos virtuales
+# ==================================
+venv/
+.venv/
+env/
+ENV/
+
+# ==================================
+# Visual Studio Code
+# ==================================
+.vscode/
+.idea/
+
+# ==================================
+# Variables y credenciales
+# ==================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# ==================================
+# Sistema operativo
+# ==================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==================================
+# Archivos temporales
+# ==================================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ==================================
+# Docker
+# ==================================
+*.tar
+*.tar.gz
+
+# ==================================
+# Evidencias del laboratorio
+# ==================================
+# Los archivos registro_*.json
+# NO deben ignorarse.
